@@ -242,4 +242,4 @@ This repository serves as the official landing page for TopoCal. The software is
 **Get the most recent version of TopoCal today!**
 
 ---
-**Last updated:** 2026-10-17 15:00:00 UTC
+**Last updated:** 2026-10-17 17:50:32 UTC
